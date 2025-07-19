@@ -6,11 +6,6 @@
   user-select: none;
 }
 
-@font-face {
-  font-family: "sans";
-  src: url(font/sans.ttf);
-}
-
 section {
   position: relative;
   display: flex;
